@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "youtube-sr": "^4.3.12",
+    "ytpl": "^2.3.0"
+  }
+}
